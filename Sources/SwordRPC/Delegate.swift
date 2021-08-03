@@ -6,7 +6,7 @@
 //  Copyright © 2017 Alejandro Alonso. All rights reserved.
 //
 
-public protocol SwordRPCDelegate: class {
+public protocol SwordRPCDelegate: AnyObject {
   func swordRPCDidConnect(
     _ rpc: SwordRPC
   )
