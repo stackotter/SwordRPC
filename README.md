@@ -21,6 +21,7 @@
 1. macOS, Linux
 2. Swift 5.0
 
-## Adding SwordRP
-### Swift Package Manager
+## Adding SwordRPC
+This fork uses Swift Package Manager.  
+
 In your Xcode project, go to Swift Packages in your Project Settings and add the package with URL `https://github.com/PKBeam/SwordRPC.git`.
